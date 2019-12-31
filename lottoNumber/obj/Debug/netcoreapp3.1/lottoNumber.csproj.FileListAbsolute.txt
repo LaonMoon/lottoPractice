@@ -1,0 +1,11 @@
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.exe
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.deps.json
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.runtimeconfig.json
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.runtimeconfig.dev.json
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.dll
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\bin\Debug\netcoreapp3.1\lottoNumber.pdb
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\obj\Debug\netcoreapp3.1\lottoNumber.csprojAssemblyReference.cache
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\obj\Debug\netcoreapp3.1\lottoNumber.AssemblyInfoInputs.cache
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\obj\Debug\netcoreapp3.1\lottoNumber.AssemblyInfo.cs
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\obj\Debug\netcoreapp3.1\lottoNumber.dll
+C:\Users\laonm\source\repos\lottoNumber\lottoNumber\obj\Debug\netcoreapp3.1\lottoNumber.pdb
